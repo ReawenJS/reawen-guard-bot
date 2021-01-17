@@ -1,0 +1,28 @@
+{
+  "name": "guard",
+  "version": "0.0.1",
+  "description": "Guard Reawen",
+  "main": "guard.js",
+  "scripts": {
+    "start": "node guard.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.2.0",
+    "quick.db": "^7.1.2",
+    "request": "^2.88.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "Reawen",
+    "Serendia",
+    ".gg/Serendia"
+  ]
+}
